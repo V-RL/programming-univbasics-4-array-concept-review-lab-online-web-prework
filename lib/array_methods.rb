@@ -1,4 +1,4 @@
-ef find_element_index(array, value_to_find)
+f find_element_index(array, value_to_find)
   counter = 0 
   while counter < array.length do 
     puts array[counter]
